@@ -1,0 +1,7 @@
+ ACF NEWS:
+       Doc_Title:  XPath=//div[@class='ng-scope']
+       Open_Selector:  xpath=//button[@class='btn btn-default ng-binding]
+
+ Employee:
+        Name: Suresh
+        Job: Test Automation Engineer
